@@ -1,9 +1,8 @@
 
 <header align="center" style="text-align: center">
-
-  ># 1
   
-</header>
+  # 　　　　　　　　　　　학교 기능반 PHP 레포
+</header><br>
 
 <div align="center" style="display: flex; justify-content: flex-start;">
   <a href="http://www.yes24.com/Product/Goods/105772857">
@@ -14,4 +13,4 @@
   </a>
 </div>
 
-<br>
+<br><br>
