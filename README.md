@@ -1,7 +1,7 @@
 
 <header align="center" style="text-align: center">
   
-  # 　　　　　　　　　　　학교 기능반 PHP 레포
+  # 　　　　　　　학교 기능반 PHP 레포
 </header><br>
 
 <div align="center" style="display: flex; justify-content: flex-start;">
