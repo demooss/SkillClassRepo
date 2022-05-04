@@ -1,8 +1,9 @@
 
-<header align="center" style="text-align: center">
-  
-  # 　　　　　　　　학교 기능반 PHP 레포
-</header><br>
+<div align="center">
+  <h1>학교 기능반 PHP 레포</h1>
+</div>
+
+<br>
 
 <div align="center" style="display: flex; justify-content: flex-start;">
   <a href="http://www.yes24.com/Product/Goods/105772857">
